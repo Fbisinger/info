@@ -5,6 +5,4 @@
 layout: home
 ---
 
-![test](./assets/test.jpeg)
-
 <iframe width="1200" height="700" title="someTitle" scrolling="no" src ="https://renderstuff.com/tools/360-panorama-web-viewer-embed/?image=https://fbisinger.github.io/info/assets/test.jpeg"><iframe>
