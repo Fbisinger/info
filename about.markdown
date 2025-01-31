@@ -4,5 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Test Page
+A collection of drone shots from my travels. No words, just images. I am an Engineer...
+
+© F. Bisinger 2025
 
