@@ -5,4 +5,7 @@
 layout: home
 ---
 
+
+{% include image-gallery.html folder="/assets/photos" %}
+
 <iframe width="1000" height="700" title="someTitle" scrolling="no" src ="https://renderstuff.com/tools/360-panorama-web-viewer-embed/?image=https://fbisinger.github.io/info/assets/test.jpeg"><iframe>
